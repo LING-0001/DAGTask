@@ -1,0 +1,3 @@
+include ':dagtask'
+include ':app'
+rootProject.name = "DAGTask"
